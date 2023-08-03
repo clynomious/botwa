@@ -4,14 +4,14 @@ A whatsapp bot based on baileys
 
 ## Installation
 Rename `config.json.example` to `config.json`
-### cloning this repo
+### Cloning this repo
 
 ```bash
-  git clone https://github.com/Fajar-27/botwa
+  git clone https://github.com/FajarCly/botwa
   cd botwa
   npm install
 ```
-### start bot
+### Start bot
 
 ```bash
   npm start
